@@ -4,3 +4,4 @@
 #### starting with github markdown
 ##### Starting with github markdown
 ###### starting with github markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
